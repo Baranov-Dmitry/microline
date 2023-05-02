@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/microline/static/css/main.cef8fde7.css",
-    "main.js": "/microline/static/js/main.46c45202.js",
+    "main.js": "/microline/static/js/main.922b21ff.js",
     "index.html": "/microline/index.html",
     "main.cef8fde7.css.map": "/microline/static/css/main.cef8fde7.css.map",
-    "main.46c45202.js.map": "/microline/static/js/main.46c45202.js.map"
+    "main.922b21ff.js.map": "/microline/static/js/main.922b21ff.js.map"
   },
   "entrypoints": [
     "static/css/main.cef8fde7.css",
-    "static/js/main.46c45202.js"
+    "static/js/main.922b21ff.js"
   ]
 }
