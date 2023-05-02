@@ -2,7 +2,7 @@ import styled from '@emotion/styled'
 import React from 'react'
 
 const CountRectangle = ({ text, bgcolor, icon }: { text: string, bgcolor: string, icon?: string | JSX.Element | JSX.Element[], }) => {
-  console.log("CountRectangle")
+
   return (
     <Rectangle bgcolor={bgcolor} >
       {icon}
