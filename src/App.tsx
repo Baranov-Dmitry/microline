@@ -54,6 +54,12 @@ function App() {
         <CountRectangle bgcolor="#fb5a5a" text={state.error} />
       }
 
+      <CountButton
+        isDisabled={isButtonDisabled}
+        handleClick={handleClick}
+        variant="contained"
+        text='КЛИКНУТЬ' />
+
     </CountContainer>
   );
 }
