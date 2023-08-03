@@ -54,7 +54,6 @@ function App() {
         <CountRectangle bgcolor="#fb5a5a" text={state.error} />
       }
 
-      {/* Вторая кнопка тут не к чему */}
       <CountButton
         isDisabled={isButtonDisabled}
         handleClick={handleClick}
