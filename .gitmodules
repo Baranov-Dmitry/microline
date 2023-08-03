@@ -1,0 +1,3 @@
+[submodule "src/fibonachiSequence"]
+	path = src/fibonachiSequence
+	url = https://github.com/Baranov-Dmitry/fibonachiSequence.git
